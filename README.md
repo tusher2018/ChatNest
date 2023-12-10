@@ -1,7 +1,7 @@
 # ChatNest
 
 <video width="320" height="240" controls>
-  <source src="[video.mp4](https://github.com/tusher2018/ChatNest/assets/153421219/77509286-32e6-45aa-a4eb-e136335df640)" type="video/mp4">
+  <source src="https://github.com/tusher2018/ChatNest/assets/153421219/77509286-32e6-45aa-a4eb-e136335df640" type="video/mp4">
 </video>
 
 ![login](https://github.com/tusher2018/ChatNest/assets/153421219/7a744628-4b54-41d7-ba34-4345addc59c9)
